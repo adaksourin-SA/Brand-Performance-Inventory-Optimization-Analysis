@@ -1,0 +1,9 @@
+2026-04-30 11:17:27,965 - INFO - Connected to database vendoranalysis
+2026-04-30 11:17:29,076 - INFO - Ingesting CSV: begin_inventory; Shape: (206529, 9); Database: vendoranalysis
+2026-04-30 11:17:29,970 - INFO - Ingesting CSV: end_inventory; Shape: (224489, 9); Database: vendoranalysis
+2026-04-30 11:17:45,888 - INFO - Ingesting CSV: purchases; Shape: (2372474, 16); Database: vendoranalysis
+2026-04-30 11:17:46,375 - INFO - Ingesting CSV: purchase_prices; Shape: (12261, 9); Database: vendoranalysis
+2026-04-30 11:18:58,455 - INFO - Ingesting CSV: sales; Shape: (12825363, 14); Database: vendoranalysis
+2026-04-30 11:18:59,664 - INFO - Ingesting CSV: vendor_invoice; Shape: (5543, 10); Database: vendoranalysis
+2026-04-30 11:18:59,759 - INFO - |----------------------Ingestion Complete----------------------|
+2026-04-30 11:18:59,760 - INFO - Time Elapsed: 11.529 min
