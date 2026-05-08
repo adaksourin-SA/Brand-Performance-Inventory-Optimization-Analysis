@@ -36,27 +36,39 @@ Effective inventory and sales management are critical for optimizing profitabili
 - Identified **198 low-sales but high-margin brands**
 - Detected **highly price-sensitive brands** that may benefit from discounts and promotional strategies
 
+![Promotional & Pricing Opportunities](Screenshots/1.png)
+
 ### 2. Vendor Dependency Risk
 - Top 10 vendors contribute approximately **65.69%** of total purchases
 - Indicates significant supplier concentration risk
+
+![Vendor Dependency Risk](Screenshots/2.png)
 
 ### 3. Bulk Purchasing Advantage
 - Large orders reduce unit purchase costs by nearly **72%**
 - Demonstrates strong economies of scale
 
+![Bulk Purchasing Advantage](Screenshots/3.jpg)
+
 ### 4. Inventory Turnover Issues
 - Identified slow-moving inventory worth approximately **$9.5M**
 - Highlights opportunities for inventory optimization
 
+![Inventory Turnover Issues](Screenshots/4.jpg)
+
 ### 5. Profitability Analysis
 - Low-performing brands exhibit significantly higher profit margins than top-selling brands
 - Suggests pricing inefficiencies and market penetration challenges
+
+![Profitability Analysis](Screenshots/5.jpg)
 
 ### 6. Statistical Validation
 Performed hypothesis testing to validate profit margin differences between top and low-performing brands.
 
 - Null Hypothesis rejected
 - Confirms statistically significant profitability differences between brand groups
+
+![Statistical Validation](Screenshots/6.jpg)
 
 ---
 
@@ -77,6 +89,8 @@ main/
 │
 └── Report-Flowing_Fluidz.pdf           # Final business report
 ```
+
+---
 
 ## ⚙️ Tech Stack
 
@@ -99,6 +113,8 @@ main/
 ### Tools
 - Jupyter Notebook
 - VS Code
+
+---
 
 ## 📊 Workflow
 
@@ -173,12 +189,16 @@ Alternative Hypothesis (H₁)
 - Vendor Purchase Contribution
 - Unsold Inventory Capital
 
-## **Business Recommendations**
+---
+
+## 🏢 Business Recommendations
 - Re-evaluate pricing strategies for low-sales brands
 - Diversify vendor partnerships to reduce supply chain risk
 - Utilize bulk purchasing advantages strategically
 - Optimize slow-moving inventory
 - Improve marketing and distribution for high-margin brands
+
+---
 
 ## 🏃‍♂️ How to Run
 
@@ -210,6 +230,8 @@ Update database credentials inside:
 
 ```A3_vendor_analysis.ipynb```
 
+---
+
 ## Final Report
 The complete business report is included in: ```Report-Flowing_Fluidz.pdf```
 
@@ -221,6 +243,8 @@ The complete business report is included in: ```Report-Flowing_Fluidz.pdf```
 - Statistical testing
 - Visualizations
 - Final business recommendations
+
+---
 
 ## ✍ Author
 **Sourin Adak**\
